@@ -11,5 +11,7 @@ keywords: Exploring Alignment Agent, UAGC, alignment framework, institutional ai
 - [Reference Guide](agent-reference-guide.md)
 - [Framework Guide](agent-framework.md)
 - [Generalized Job Context](generalized-job-context.md)
+- [AES Model](agreement-experiment-share.md)
+
 
 These documents provide the institutional context and alignment logic used by the **Exploring Alignment Agent**.
