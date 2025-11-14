@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Generalized Job Context
-description: Institutional and organizational context, key definitions, audiences, and aims used by the Exploring Alignment Agent for alignment and reflection.
-keywords: UAGC, institutional context, job context, aims, alignment, faculty development, learning organization, workforce-centered learning, student success
+title: Generalized Job Context for Alignment Agent
+description: Guide describing representative faculty and staff roles, institutional aims, and context used by the Exploring Alignment Agent to support reflection and alignment across divisions.
+keywords: faculty roles, staff roles, job context, alignment framework, institutional aims, reflection, learning organization
+canonical_url: https://dboggan.github.io/exploring-alignment-hub/generalized-job-context.html
+robots: index, follow
 ---
 
 # Generalized Job Context
