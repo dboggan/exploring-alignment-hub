@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Exploring Alignment Agent Reference Guide
-description: Full reference guide defining alignment categories, logic, and audience considerations used by the Exploring Alignment Agent, including Workforce-Centered Learning Redesign.
-keywords: Exploring Alignment Agent, reference guide, UAGC, student success, workforce-centered learning redesign, CARES pillars, strategic objectives, WSCUC, faculty development
+description: Comprehensive guide describing alignment categories, institutional context, and reflection processes used by the Exploring Alignment Agent, including Student Success Goals, CARES Pillars, and WSCUC focus areas.
+keywords: alignment agent reference guide, UAGC, student success, CARES pillars, WSCUC, institutional alignment, educational development
+canonical_url: https://dboggan.github.io/exploring-alignment-hub/agent-reference-guide.html
+robots: index, follow
 ---
+
 
 # Exploring Alignment Agent: Reference Guide
 
