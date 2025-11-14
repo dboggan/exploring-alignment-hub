@@ -1,7 +1,12 @@
 ---
-title: Agreement → Experiment → Share (AES) Model
-description: A concise explainer of the Agreement → Experiment → Share model for learning organizations, with examples, reflection prompts, and tips for using it in the Exploring Alignment Agent.
+layout: default
+title: Learning Plan (Agreement–Experiment–Share) Framework
+description: Framework adapted from Peter Senge’s concept of the learning organization, supporting reflection through Agreement, Experiment, and Share phases to build continuous improvement and institutional alignment.
+keywords: learning plan, agreement experiment share, Senge, fifth discipline, learning organization, faculty reflection, continuous improvement, institutional alignment
+canonical_url: https://dboggan.github.io/exploring-alignment-hub/agreement-experiment-share.html
+robots: index, follow
 ---
+
 
 # Agreement → Experiment → Share (AES) Model
 
